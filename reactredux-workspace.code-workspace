@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "react"
+		},
+		{
+			"path": "REACT_REDUX"
+		},
+		{
+			"path": "NextJS"
+		},
+		{
+			"path": "nestJS"
+		}
+	],
+	"settings": {}
+}
